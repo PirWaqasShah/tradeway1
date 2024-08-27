@@ -15,7 +15,6 @@ font-family: 'Poppins', sans-serif;
 3.  Welcome-hero
 4.  About me 
 5.  Education
-6.  Skill
 7.  Experience
 8.  Profiles
 9.  Portfolio
@@ -120,7 +119,7 @@ nav.navbar.bootsnav {
 .navbar-header a.navbar-brand,.navbar-header a.navbar-brand:hover,.navbar-header a.navbar-brand:focus {
     display: inline-block;
     color: #d92cf9;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 600;
     padding: 33px 0px 57px;
     text-transform: uppercase;
@@ -366,21 +365,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 
 /*.education-horizontal-timeline*/
 
-/*-------------------------------------
-        6.  Skills
---------------------------------------*/
-.skills {
-    
-}
-.skill-content{padding: 50px 0 80px;}
-.single-skill-content{padding-top: 100px;}
-.section-heading h2 {
-    font-size: 24px;
-    font-weight: 600;
-    text-transform: uppercase;
-    padding-bottom: 50px;
-    border-bottom: 1px solid #e5ebf2;
-}
+
 .single-progress-txt {
     display: flex;
 }
